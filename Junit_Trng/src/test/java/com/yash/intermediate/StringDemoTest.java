@@ -1,8 +1,10 @@
-package com.yash;
+package com.yash.intermediate;
 
 import static org.junit.jupiter.api.Assertions.assertNotEquals;
 
 import org.junit.jupiter.api.Test;
+
+import com.yash.intermediate.StringDemo;
 
 public class StringDemoTest {
 

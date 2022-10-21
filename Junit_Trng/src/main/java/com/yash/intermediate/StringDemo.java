@@ -1,4 +1,4 @@
-package com.yash;
+package com.yash.intermediate;
 
 public class StringDemo {
 
